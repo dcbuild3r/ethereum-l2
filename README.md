@@ -2,8 +2,6 @@
 
 I'm [DCBuilder](https://twitter.com/DCbuild3r), a blockchain researcher at [Moralis](https://moralis.io), where I write about DeFi, NFTs, DAOs, L2s, MEV and other various topics pertaining to web3/crypto. I have been a front-end developer with an AI/ML background and have recently started the transition to full-stack blockchain development through an EthernautDAO mentorship with Austin Griffith. I'm a fellow member of Waifus Anonymous being an anime/manga enjoyoor and have a Kaneki (Tokyo Ghoul) pfp on Twitter.
 
-If you want to know more about me, let us know if you would want an AMA similar to the one [Rasukix](https://waifusanonymous.com/articles/rasukix-ama/) and [0xburden](https://waifusanonymous.com/articles/0xburden-ama-september-26-2021/) had.
-
 # Introduction
 
 In this article, I’ll talk about L2s on Ethereum, the state of the current scaling ecosystem, and why I believe running L2s on top of Ethereum is the most economically and technically sustainable scaling solution long term.
