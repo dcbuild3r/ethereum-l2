@@ -1,3 +1,9 @@
+# The Ultimate Guide to L2s on Ethereum
+
+![Ethereum with the most popular L2 ecosystems](./images/ETH4k.png)
+
+
+[Original Mirror article](https://dcbuilder.mirror.xyz/QX_ELJBQBm1Iq45ktPsz8pWLZN1C52DmEtH09boZuo0)
 # Who am I?
 
 I'm [DCBuilder](https://twitter.com/DCbuild3r), a blockchain researcher at [Moralis](https://moralis.io), where I write about DeFi, NFTs, DAOs, L2s, MEV and other various topics pertaining to web3/crypto. I have been a front-end developer with an AI/ML background and have recently started the transition to full-stack blockchain development through an EthernautDAO mentorship with Austin Griffith. I'm a fellow member of Waifus Anonymous being an anime/manga enjoyoor and have a Kaneki (Tokyo Ghoul) pfp on Twitter.
@@ -576,32 +582,32 @@ My article can only be so long, it already is quite long and it wouldn’t make 
 
 #### L2 scaling
 
-- Ultra scalable Ethereum - Bankless (article)
-- Modular vs. Monolithic blockchains - Bankless (video)
-- Epolynya’s Medium posts - @epolynya (articles)
-- Ethereum-powered ZK-Rollups: World Beaters - Canti (article)
-- An Incomplete Guide to Rollups - Vitalik Buterin (article)
-- Layer 2 scaling - EthHub (documentation)
-- The Daily Gwei -  Anthony Sassano (newsletter, YT channel)
+- [Ultra scalable Ethereum](https://newsletter.banklesshq.com/p/ultra-scalable-ethereum) - [Bankless](https://twitter.com/BanklessHQ) (article)
+- [Modular vs. Monolithic blockchains](https://shows.banklesshq.com/p/modular-vs-monolithic-blockchains) - [Bankless](https://twitter.com/BanklessHQ) (video)
+- [Epolynya’s Medium posts](https://t.co/A4qTQ0cxYt?amp=1) - [@epolynya](https://twitter.com/epolynya) (articles)
+- [Ethereum-powered ZK-Rollups: World Beaters](https://hackmd.io/@canti/rkUT0BD8K) - [Canti](https://twitter.com/CryptoCanti) (article)
+- [An Incomplete Guide to Rollups](https://vitalik.ca/general/2021/01/05/rollup.html) - [Vitalik Buterin](https://twitter.com/VitalikButerin) (article)
+- [Layer 2 scaling](https://docs.ethhub.io/ethereum-roadmap/layer-2-scaling/zk-rollups/) - [EthHub](https://ethhub.io/) (documentation)
+- [The Daily Gwei](https://thedailygwei.substack.com/) -  [Anthony Sassano](https://twitter.com/sassal0x) ([newsletter](https://thedailygwei.substack.com/), [YT channel](https://www.youtube.com/c/TheDailyGwei))
 
 #### L1 scaling
 
-- Why sharding is great: demystifying the technical properties - Vitalik Buterin (article)
-- A state expiry and statelessness roadmap - Vitalik Buterin
-- What’s new in ETH2 - Ben Edgington (newsletter)
+- [Why sharding is great: demystifying the technical properties](https://vitalik.ca/general/2021/04/07/sharding.html) - [Vitalik Buterin](https://twitter.com/VitalikButerin) (article)
+- [A state expiry and statelessness roadmap](https://notes.ethereum.org/@vbuterin/verkle_and_state_expiry_proposal) - [Vitalik Buterin](https://twitter.com/VitalikButerin)
+- [What’s new in ETH2](https://hackmd.io/@benjaminion/eth2_news/https%3A%2F%2Fhackmd.io%2F%40benjaminion%2Fwnie2_211105) - [Ben Edgington](https://twitter.com/benjaminion_xyz) (newsletter) 
 
 #### STARKs
 
-- SNARKs vs STARKs - Consensys (article)
-- Anatomy of a STARK - Alan Szepieniec (open-source article)
-- Anatomy of a STARK - Alan Szepieniec (code - GitHub)
+- [SNARKs vs STARKs](https://consensys.net/blog/blockchain-explained/zero-knowledge-proofs-starks-vs-snarks/) - [Consensys](https://consensys.net/) (article)
+- [Anatomy of a STARK](https://aszepieniec.github.io/stark-anatomy/) - [Alan Szepieniec](https://twitter.com/aszepieniec) (open-source article)
+- [Anatomy of a STARK](https://github.com/aszepieniec/stark-anatomy) - [Alan Szepieniec](https://twitter.com/aszepieniec) (code - GitHub)
 
 #### Others
 
-- Ethresear.ch - Ethereum research (semi-public forum)
-- Week in Ethereum news (Twitter) - Evan Van Ness (newsletter)
-- Ethereum Cat Herders - Ethereum core news (YT Channel)
-- Ethereum Roadmap update - Bankless (article)
+- [Ethresear.ch](https://ethresear.ch/) - Ethereum research (semi-public forum)
+- [Week in Ethereum news](https://www.weekinethereumnews.com/) ([Twitter](https://twitter.com/WeekInEthNews)) - [Evan Van Ness](https://twitter.com/evan_van_ness) (newsletter) 
+- [Ethereum Cat Herders](https://www.youtube.com/channel/UCD9iiIwTRtLDYcEWONs2Q3A) - Ethereum core news (YT Channel)
+- [Ethereum Roadmap update](https://newsletter.banklesshq.com/p/ethereum-roadmap-update-end-of-2021) - [Bankless](https://newsletter.banklesshq.com/) (article)
 
 ### People to follow on Twitter
 
