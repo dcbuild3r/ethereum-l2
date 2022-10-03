@@ -2,6 +2,7 @@
 
 ![Ethereum with the most popular L2 ecosystems](./images/ETH4k.png)
 
+# Most up to date and most comprehensive resource on L2s - [The Complete Guide to Rollups](https://members.delphidigital.io/reports/the-complete-guide-to-rollups/) - Delphi Digital
 
 [Original Mirror article](https://dcbuilder.mirror.xyz/QX_ELJBQBm1Iq45ktPsz8pWLZN1C52DmEtH09boZuo0)
 # Who am I?
